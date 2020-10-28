@@ -1,6 +1,6 @@
 # AuraShaderProjectOpenGL
 
 
-Ce projet a eu pour but de créer des effets d'aura autour d'un modèle 3D à l'aide de shaders en OpenGl.
+The aim of the project was to create aura effects around a 3D Model using shaders on GOBLIM , the render engine of the University of Limoges.
 
-Ce projet a été à but éducatif.
+You can see the results here : https://vimeo.com/471339217
